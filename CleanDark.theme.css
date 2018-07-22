@@ -1,0 +1,12 @@
+//META{"name":"Clean Dark","description":"Simple, clean dark theme.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+
+@import url();
+
+:root {
+	--round: 50%;
+	--mc: #101010;
+	--chatbg: #101010;
+	--text: #ddd;
+	--font: 14px;
+	--border: rgba(53, 149, 255, 0.3);
+}
