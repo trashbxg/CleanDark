@@ -1,3 +1,14 @@
+//META{"name":"Clean Dark","description":"Simple, clean dark theme.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+
+:root {
+	--round: 50%;
+	--mc: #121212;
+	--chatbg: #121212;
+	--text: #ccc;
+	--font: 14px;
+	--border: rgba(53, 149, 255, 0.3);
+}
+
 /* Scrollbars */
 .scroller-wrap .scroller::-webkit-scrollbar,.theme-dark .activityFeed-28jde9 ::-webkit-scrollbar {width:8px !important}
 ::-webkit-scrollbar-thumb {border-color: transparent !important; background: rgba(220, 220, 220, 0.55) !important;border-radius:0px !important} 
@@ -6,11 +17,6 @@
 /* Member Profiles */
 .theme-dark .header-QKLPzZ .image-33JSyf {width:100px; height:100px; background-size: 100px 100px}
 
-.theme-dark .headerNormal-T_seeN,.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {background-color: #191919}
-.theme-dark .footer-1fjuF6 {border-color: var(--border)}
-.theme-dark .quickMessage-1yeL4E {background-color: #383838;border-color: var(--border);color: #ddd}
-.theme-dark .userPopout-3XzG_A {position:relative;right:20px;border:1px solid var(--border)}
-.theme-dark .popoutRight-2ZVwL-.noArrow-3BYQ0Z{box-shadow:none}
 
 
 /* Member List */
@@ -92,7 +98,6 @@
 .theme-dark #bda-qem {background: #f2f2f2;border:1px solid #000}
 
 /* Friends */
-@media (max-width:1300px){#friends .friends-table .friends-column-name{width:200px !important}}
 .theme-dark .private-channels .channel .avatar-small{width:35px;height:35px;background-size:35px 35px}
 .theme-dark #friends .friends-table .friends-row .avatar-large, #friends .friends-table .friends-row .avatar-small{left:3px;width:40px;height:40px;background-size:40px 40px;}
 .theme-dark .addFriendInput-4bcerK {color: #ddd;font-size:16px;font-weight:600}
@@ -124,22 +129,19 @@
 /* Games */
 
 
-
 /* Status */
 .theme-dark .spinner-2enMB9{margin-left: 4px}
 .theme-dark .pulsingEllipsisItem-32hhWL {opacity: .9}
 .theme-dark .container-2Thooq .status-2kJpnA,.theme-dark .statusProfile-3ynqtt.status-oxiHuE {pointer-events: none !important;}
 
-.theme-dark .members-1998pB .content-OzHfo4 .status-2s6iDp {bottom: 0;right: 0;height: 35px !important;width: 35px !important;}
-
-.theme-dark .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status {left:-2px;height: 30px !important;width: 30px !important;background-color: rgba(0, 0, 0, 0.4) !important;}
-
-.theme-dark .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp {background-color: rgba(0, 0, 0, 0.4) !important;right: -7px !important}
-
+.theme-dark .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp {
+background-color: rgba(0, 0, 0, 0.4);bottom: -7px;height: 35px!important;width: 35px!important;left:-2px}
+.theme-dark .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status {
+background-color: rgba(0, 0, 0, 0.4);bottom: -1px;height: 30px!important;width: 30px!important;left:-2px}
 
 .theme-dark .title-3qD0b- .status-oxiHuE,.theme-dark .friends-column-status .status,.theme-dark .titleCall-_b9o8P .status-oxiHuE {position:relative}
 
-.theme-dark #friends .friends-column-status .status{width:40px;height: 40px;right:237px;bottom:0px;padding:0;}
+.theme-dark #friends .friends-column-status .status{width:40px;height: 40px;right:237px;bottom:0px;padding:0}
 .theme-dark .statusProfile-3ynqtt.status-oxiHuE {width:95%;height: 95%;right:-2px;bottom:-2px;padding:2px}
 
 .theme-dark .header-QKLPzZ .statusProfile-3ynqtt.status-oxiHuE{width:100px;height: 100px;right:-12px;bottom:-12px;padding:0}
@@ -176,9 +178,6 @@
 .private-channels .offline-3qoTek,.container-2Thooq .offline-3qoTek,.members-1998pB .content-OzHfo4 .offline-3qoTek,.theme-dark #friends .friends-column-status .offline-3qoTek {background-color: transparent;border:2px solid #000 !important;}
 
 .theme-dark #friends .friends-column-status .unknown-Ms2zdV {background-color: transparent;border:2px solid #000}
-
-/* Menus */
-.theme-dark .autocomplete-1vrmpx,.autocompleteInner-zh20B_ {background-color: #181818;border: 1px solid var(--border)}
 
 /* Settings */ 
 .theme-dark .margin-bottom-40 .h5-18_1nd {color: #eee;font-size: 16px;text-align:center}
@@ -250,7 +249,7 @@
 .theme-dark .message-group .comment .markup {color: var(--text);font-size:var(--font);font-family:sans-serif;font-weight:600;text-rendering: optimizeLegibility;}
 .theme-dark .message-group .comment .markup strong {font-weight: 800}
 .theme-dark .inner-zqa7da {background: #101010;color:#ddd;border: 1px solid var(--border)}
-.theme-dark .wrapper-35wsBm {background: #383838;border-color: var(--border)}
+.theme-dark .wrapper-35wsBm {background: #f2f2f2;border-color: var(--border)}
 .theme-dark .typing-2GQL18 {background:rgba(0, 0, 0, 0);color:#ddd;bottom:-4px}
 
 .theme-dark .friends-table .messages .divider:before, .theme-dark .friends-table .messages .divider span, .theme-dark .messages-wrapper .messages .divider:before, 
@@ -264,6 +263,7 @@
 .theme-dark .chat form {box-shadow: 0 -1px 0 rgba(0,0,0,.2)}
 .theme-dark .mention {background: rgba(241, 243, 251, 0);color:#2b2bff}
 .theme-dark .mention:hover {color: #0000ff}
+.theme-dark .autocompleteInner-zh20B_ {background-color: #eee;border: 1px solid #000;}
 .theme-dark .attachment-33OFj0 {border-color: var(--border);background:#383838}
 .theme-dark .embedPill-1Zntps {background-color: #000}
 .theme-dark .embedInner-1-fpTo {background: #383838;border: 1px solid #000;border-radius:0;}
