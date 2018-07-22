@@ -4,9 +4,9 @@
 
 :root {
 	--round: 50%;
-	--mc: #101010;
-	--chatbg: #101010;
-	--text: #ddd;
+	--mc: #121212;
+	--chatbg: #121212;
+	--text: #ccc;
 	--font: 14px;
 	--border: rgba(53, 149, 255, 0.3);
 }
