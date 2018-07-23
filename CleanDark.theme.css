@@ -3,10 +3,12 @@
 @import url(https://rawgit.com/satoru8/CleanDark/master/CleanDark.css);
 
 :root {
-	--round: 50%;
-	--mc: #121212;
-	--chatbg: #121212;
-	--text: #ccc;
-	--font: 14px;
-	--border: rgba(53, 149, 255, 0.3);
+	--round: 50%;	/* Icon Roundness */
+	--mc: #121212;	/* Main theme colour. */
+	--chatbg: #121212;	/* Chat background */
+	--text: #ccc;	/* Chat text colour */
+	--font: sans-serif;	
+	--fsize: 14px;	/* Font Size */
+	--sb:rgba(53, 149, 255, .3);    /* Scrollbar colour. Change .3 to 0 to hide scrollbar. */
+	--border: rgba(53, 149, 255, .3);	/* Border colour. Change .3 to 0 to hide borders. */
 }
