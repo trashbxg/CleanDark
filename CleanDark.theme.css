@@ -5,16 +5,15 @@
 :root {
 	--round: 5%;	/* Icon Roundness. Pfps/Guilds */
 	--mc: #121212;	/* Main theme colour. */
-	--chatbg: #121212;	/* Chat background */
+	--chatbg: #181818;	/* Chat background */
 	--text: #ccc;	/* Chat text colour */
-	--profileradius: 0px; /* 0 is normal squared edges. Up to 50px for rounded profiles. */
+	--profileradius: 0px; /* 0 is normal squared edges. Up to 45px for rounded profiles. */
 	--homeicon: url(https://rawgit.com/satoru8/Icons/master/homewhite.svg);
 	--font: sans-serif;	
 	--fsize: 14px;	/* Font Size */
 	--sb:rgba(53, 149, 255, .3);    /* Scrollbar colour. Change .3 to 0 to hide scrollbar. */
 	--border: rgba(53, 149, 255, .3) !important;	/* Border colour. Change .3 to 0 to hide borders. */
 
-    
     /* Uri's Status Chooser */
 	--sPickerOnlineBGColour: #43b581;
     --sPickerIdleBGColour: #faa61a;
