@@ -12,7 +12,7 @@
 	--font: sans-serif;	
 	--fsize: 14px;	/* Font Size */
 	--sb:rgba(53, 149, 255, .3);    /* Scrollbar colour. Change .3 to 0 to hide scrollbar. */
-	--border: rgba(53, 149, 255, .3) !important;	/* Border colour. Change .3 to 0 to hide borders. */
+	--border: rgba(53, 149, 255, .3);	/* Border colour. Change .3 to 0 to hide borders. */
 
     
     /* Uri's Status Chooser */
