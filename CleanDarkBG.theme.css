@@ -4,6 +4,7 @@
 
 :root {
     --background: url(https://images6.alphacoders.com/880/880825.png);
+	--light: rgba(0, 0, 0, 0.6); /* Overall brightness. 1= black, 0 = transparent */
 	--round: 5%;	/* Icon Roundness. Pfps/Guilds */
 	--mc: rgba(18, 18, 18, .0);	/* Main theme colour. */
 	--chatbg: rgba(24, 24, 24, .0);	/* Chat background */

@@ -1,5 +1,5 @@
 .appMount-3VJmYg {background: var(--background) center/cover no-repeat;animation: none}
-.theme-dark .container-2lgZY8,.theme-dark .ui-standard-sidebar-view,.titleBar-AC4pGV::after {background-color: rgba(0, 0, 0, 0.8)}
+.theme-dark .container-2lgZY8,.theme-dark .ui-standard-sidebar-view,.titleBar-AC4pGV::after {background-color: var(--light)}
 .theme-dark .chat,.theme-dark .guilds-wrapper,.theme-dark .layer-3QrUeG{background-color: transparent}
 
 
