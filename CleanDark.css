@@ -6,13 +6,15 @@
 /* Member Profiles */
 .theme-dark .header-QKLPzZ .image-33JSyf {width:100px; height:100px; background-size: 100px 100px}
 .theme-dark .connectedAccount-36nQx7, .theme-dark .userInfoSection-2acyCx+.userInfoSection-2acyCx {border-color: var(--border)}
-
 .theme-dark .headerNormal-T_seeN,.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {background-color: #191919}
 .theme-dark .footer-1fjuF6 {border-color: var(--border)}
 .theme-dark .quickMessage-1yeL4E {background-color: #383838;border-color: var(--border);color: #ddd}
 .theme-dark .userPopout-3XzG_A {position:relative;right:20px;border:1px solid var(--border)}
 .theme-dark .popoutRight-2ZVwL-.noArrow-3BYQ0Z{box-shadow:none}
 .theme-dark .headerPlaying-j0WQBV,.theme-dark .topSectionPlaying-1J5E4n {background: #1f2c5c}
+.theme-dark .topSectionNormal-2-vo2m {border:1px solid var(--border); border-radius: 10px 10px 0 0}
+.theme-dark .body-3ND3kc {border:1px solid var(--border); border-radius: 0 0 10px 10px}
+.theme-dark .tabBarContainer-1s1u-z {border-top: 1px solid hsla(0,0%,100%,.1);padding-left: 130px}
 
 /* Member List */
 .theme-dark .membersGroup-v9BXpm {color: #ddd;font-size: 13px;text-align:center;background-color:#101010;border:1px solid var(--border);line-height: 25px;padding-top: 0;margin:5px;height: 25px}
