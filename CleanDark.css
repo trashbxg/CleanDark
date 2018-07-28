@@ -88,10 +88,7 @@
 .theme-dark svg.button-1w5pas g path{opacity: 1}
 
 /* Code Stuff */
-.theme-dark .message-group .comment .markup code.inline {background: #383838;color:#ddd}
-.theme-dark .message-group .comment .markup pre code {background: #383838;color:#ddd;box-shadow: 0 0 3px .5px var(--border)}
-.theme-dark .message-group .comment .markup pre {background: #383838;border-color: var(--border)}
-
+.theme-dark .markup-2BOw-j pre,.theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline {background: #383838;border-color: var(--border);color:#ddd}
 
 /* Emoji Stuff */
 .theme-dark .message-group .btn-option, .message-group .btn-reaction,.theme-dark .reactions .btn-reaction {opacity: 1}
