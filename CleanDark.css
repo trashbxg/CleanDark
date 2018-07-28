@@ -360,6 +360,7 @@
 .theme-dark .avatar-xsmall, .theme-dark .avatar-xxlarge,.theme-dark .statusProfile-3ynqtt  {border-radius: var(--round) !important}
 
 /* Msg Area */
+.theme-dark .containerCozy-jafyvG {padding-top: 25px}
 .theme-dark .messages-wrapper .messages .message-group-blocked.revealed,.theme-dark .friends-table .messages .message-group-blocked .message-group-blocked-btn, 
 .theme-dark .messages-wrapper .messages .message-group-blocked .message-group-blocked-btn {background: #282828;border:1px solid var(--border);color: #ccc}
 .theme-dark .dividerEnabled-2TTlcf {border-bottom: none}
