@@ -28,21 +28,21 @@
 .theme-dark .members-1998pB {box-shadow: 0 0 16px rgba(0, 0, 0, 1)}
 
 /* Guilds */
-.theme-dark .guilds .home-icon g{display:none}
-.theme-dark .guilds-wrapper .guilds svg.home-icon{background: var(--homeicon) no-repeat center/cover}
-.theme-dark .guilds-wrapper .guild-inner {background-color: #242424 !important}
-.theme-dark .guilds-wrapper .guilds .home-icon {box-shadow: 0 0 5px 0 var(--border) inset !important}
-.theme-dark .guilds-wrapper .scroller-wrap .guilds.scroller .guild .guild-inner {background-color:transparent}
+.theme-dark .guilds-1q_RqH .homeIcon-1FoKUJ g{display:none}
+.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH svg.homeIcon-1FoKUJ{background: var(--homeicon) no-repeat center/cover}
+.theme-dark .guildsWrapper-5TJh6A .guildInner-3DSoA4 {background-color: #242424 !important}
+.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .homeIcon-1FoKUJ {box-shadow: 0 0 5px 0 var(--border) inset !important}
+.theme-dark .guildsWrapper-5TJh6A .scroller-wrap .guilds.scroller .guild-1EfMGQ .guildInner-3DSoA4 {background-color:transparent}
 .theme-dark #bd-pub-button[style="line-height: 20px; font-size: 12px;"] {background:rgb(10, 10, 10)}
 .theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action,
 .theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-voice-call,
 .theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove {background-color: #000;border: 1px solid var(--border)}
-.theme-dark .guilds-wrapper .guilds .friends-online {color: #eee}
-.theme-dark .guilds-wrapper .guild-separator:after {background-color:transparent}
-.theme-dark .guilds-wrapper .guilds .guild.unread:before {background: #2b2bff;border-radius: 8px;height: 30px;margin-top: -14px;}
-.theme-dark .guilds-wrapper .guilds .guild.selected:before {background: #eee}
-.theme-dark .guilds-wrapper .guilds-add {background: rgba(32, 34, 37, 0.6);border: 1px solid #eee;color: #eee}
-.theme-dark .guilds-wrapper .guilds-add:hover {background: rgba(0, 0, 0, 0.8);border: 1px solid #eee;color: #eee}
+.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {color: #eee}
+.theme-dark .guildsWrapper-5TJh6A .guildSeparator-1X4GQ1:after {background-color:transparent}
+.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr:before {background: #2b2bff;border-radius: 8px;height: 30px;margin-top: -14px;}
+.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.selected-ML3OIq:before {background: #eee}
+.theme-dark .guildsWrapper-5TJh6A .guildsAdd-21_IdK {background: rgba(32, 34, 37, 0.6);border: 1px solid #eee;color: #eee}
+.theme-dark .guildsWrapper-5TJh6A .guildsAdd-21_IdK:hover {background: rgba(0, 0, 0, 0.8);border: 1px solid #eee;color: #eee}
 
 /* Channels */
 .theme-dark .wrapper-2NJDcI {background-color: #000;border:1px solid var(--border);border-radius: 4px;color: #eaeaea}
@@ -347,13 +347,13 @@
 
 /* Minimal Mode */
 .bd-minimal .theme-dark .container-2Thooq .button-2b6hmh {margin-top: 0}
-.bd-minimal .theme-dark .guilds-wrapper .guilds .guild .guild-inner a,
+.bd-minimal .theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4 a,
 .bd-minimal .theme-dark .iconSizeLarge-161qtT {height: 20px;width: 20px;}
-.bd-minimal .theme-dark .guilds-wrapper .guilds .guild .badge {bottom: -3px;right: -3px;padding: 1px 3px}
+.bd-minimal .theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .badge {bottom: -3px;right: -3px;padding: 1px 3px}
 
 /* Roundness */
 .theme-dark .mask-3OgeRz {-webkit-mask: none;mask: none;}
-.theme-dark .badge,.theme-dark .guilds-wrapper .guilds-add,.theme-dark .guilds-wrapper .guilds .guild-icon,.theme-dark .guilds-wrapper .guilds .guild .guild-inner,
+.theme-dark .badge,.theme-dark .guildsWrapper-5TJh6A .guildsAdd-21_IdK,.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guildIcon-CT-ZDq,.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4,
 .theme-dark .image-33JSyf,.theme-dark .avatar-large, .theme-dark .avatar-profile, .theme-dark .small-5Os1Bb,.theme-dark .avatar-small,
 .theme-dark .avatarHint-1qgaV3,.theme-dark .title-3qD0b- .status, .theme-dark .titleCall-_b9o8P .status, .theme-dark .avatar-xlarge,
 .theme-dark .avatar-xsmall, .theme-dark .avatar-xxlarge,.theme-dark .statusProfile-3ynqtt  {border-radius: var(--round) !important}
@@ -469,10 +469,8 @@
 .avatarHint-1qgaV3 {border-radius:0}
 .maskProfile-1ObLFT{mask:none;-webkit-mask:none}
 
-
-
 /* Main Background/Titlebar */
-.theme-dark .chat>.content, .theme-dark .chat form,.flex-horizontal>.flex-spacer,.theme-dark .uploadModal-2ifh8j .footer-3mqk7D, .theme-dark  .uploadModal-2ifh8j, .theme-dark #friends, .theme-dark .body-3ND3kc, .theme-dark .topSectionNormal-2-vo2m, .theme-dark .activityFeed-28jde9, .theme-dark .footer-2yfCgX, .theme-dark .modal-3HD5ck, .theme-dark .headerBar-UHpsPw, .theme-dark .channels-Ie2l6A, .theme-dark .container-PNkimc, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .theme-dark .ui-standard-sidebar-view, .theme-dark .guilds-wrapper .guilds, .theme-dark .chat .content, .theme-dark .members-1998pB, .theme-dark .title-3qD0b-, .theme-dark .scroller-2v3d_F, .theme-dark .header-2o-2hj, .theme-dark .container-2Thooq {background: var(--mc) !important;background-color:var(--mc) !important}
+.theme-dark .chat>.content, .theme-dark .chat form,.flex-horizontal>.flex-spacer,.theme-dark .uploadModal-2ifh8j .footer-3mqk7D, .theme-dark  .uploadModal-2ifh8j, .theme-dark #friends, .theme-dark .body-3ND3kc, .theme-dark .topSectionNormal-2-vo2m, .theme-dark .activityFeed-28jde9, .theme-dark .footer-2yfCgX, .theme-dark .modal-3HD5ck, .theme-dark .headerBar-UHpsPw, .theme-dark .channels-Ie2l6A, .theme-dark .container-PNkimc, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .theme-dark .ui-standard-sidebar-view, .theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH, .theme-dark .chat .content, .theme-dark .members-1998pB, .theme-dark .title-3qD0b-, .theme-dark .scroller-2v3d_F, .theme-dark .header-2o-2hj, .theme-dark .container-2Thooq {background: var(--mc) !important;background-color:var(--mc) !important}
 
 .theme-dark .iconBadge-2dji3k {border-color: #fff}
 .theme-dark .iconBadge-2dji3k:hover {border-color: #eee}
