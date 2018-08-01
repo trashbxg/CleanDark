@@ -37,21 +37,21 @@
 .theme-dark #autocomplete-popout .row.selected {background: var(--mc)}
 
 /* Guilds */
-.theme-dark .guilds .home-icon g{display:none}
-.theme-dark .guilds-wrapper .guilds svg.home-icon{background: var(--homeicon) no-repeat center/cover}
-.theme-dark .guilds-wrapper .guild-inner {background-color: rgba(25, 25, 25, 0.7) !important}
-.theme-dark .guilds-wrapper .guilds .home-icon {box-shadow: 0 0 5px 0 var(--border) inset !important}
-.theme-dark .guilds-wrapper .scroller-wrap .guilds.scroller .guild .guild-inner {background-color:transparent}
+.theme-dark .guilds-1q_RqH .homeIcon-1FoKUJ g{display:none}
+.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH svg.homeIcon-1FoKUJ{background: var(--homeicon) no-repeat center/cover}
+.theme-dark .guildsWrapper-5TJh6A .guildInner-3DSoA4 {background-color: rgba(25, 25, 25, 0.7) !important}
+.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .homeIcon-1FoKUJ {box-shadow: 0 0 5px 0 var(--border) inset !important}
+.theme-dark .guildsWrapper-5TJh6A .scroller-wrap .guilds-1q_RqH.scroller .guild-1EfMGQ .guildInner-3DSoA4 {background-color:transparent}
 .theme-dark #bd-pub-button[style="line-height: 20px; font-size: 12px;"] {background:rgb(10, 10, 10)}
 .theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action,
 .theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-voice-call,
 .theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove {background-color: #000;border: 1px solid var(--border)}
-.theme-dark .guilds-wrapper .guilds .friends-online {color: #eee}
-.theme-dark .guilds-wrapper .guild-separator:after {background-color:transparent}
-.theme-dark .guilds-wrapper .guilds .guild.unread:before {background: var(--mc);border-radius: 8px;height: 30px;margin-top: -14px;}
-.theme-dark .guilds-wrapper .guilds .guild.selected:before {background: #eee}
-.theme-dark .guilds-wrapper .guilds-add {background: rgba(32, 34, 37, 0.6);border: 1px solid #eee;color: #eee}
-.theme-dark .guilds-wrapper .guilds-add:hover {background: rgba(0, 0, 0, 0.8);border: 1px solid #eee;color: #eee}
+.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {color: #eee}
+.theme-dark .guildsWrapper-5TJh6A .guildSeparator-1X4GQ1:after {background-color:transparent}
+.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr:before {background: var(--mc);border-radius: 8px;height: 30px;margin-top: -14px;}
+.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.selected-ML3OIq:before {background: #eee}
+.theme-dark .guildsWrapper-5TJh6A .guildsAdd-21_IdK {background: rgba(32, 34, 37, 0.6);border: 1px solid #eee;color: #eee}
+.theme-dark .guildsWrapper-5TJh6A .guildsAdd-21_IdK:hover {background: rgba(0, 0, 0, 0.8);border: 1px solid #eee;color: #eee}
 
 /* Channels */
 .theme-dark .wrapper-2NJDcI {background-color: #000;border:1px solid var(--border);border-radius: 4px;color: #eaeaea}
@@ -120,7 +120,7 @@
 .theme-dark .wrapper-1cBijl {border-color:var(--border)}
 .theme-dark #friends .friends-table .friend-table-add-wrapper h2 {color: #ddd;text-align:center;font-size: 18px}
 .theme-dark #friends .friends-table .friend-table-add-wrapper .friend-table-add-description {color: #ddd;font-size: 16px;font-weight: 600;text-align:center}
-.theme-dark #friends .tab-bar .tab-bar-item .badge {background: #eee}
+.theme-dark #friends .tab-bar .tab-bar-item .badge-1GsMF2 {background: #eee}
 .theme-dark #friends .friends-table .friends-table-header .friends-column-separator { background-color: var(--border)}
 .theme-dark .private-channels .channel a {color: #ccc}
 .theme-dark .private-channels .channel.selected a {color: #ccc}
@@ -140,7 +140,7 @@
 .theme-dark #friends .friends-table .friends-row,.theme-dark #friends .friends-table .friends-row+.friends-row {border-top: 1px solid var(--border)}
 .theme-dark #friends .friends-table .friends-row:hover {border-radius: 0;border-bottom:1px solid var(--border);background-color:var(--mc)}
 .theme-dark #friends .friends-table .friends-table-header {text-align:center;border-bottom: 0;padding: 2px 30px}
-.theme-dark #friends .tab-bar .tab-bar-item.selected .badge {background-color: #000;color: #fff}
+.theme-dark #friends .tab-bar .tab-bar-item.selected .badge-1GsMF2 {background-color: #000;color: #fff}
 
 /* Games */
 .theme-dark .dockItem-2kQDqg:hover {background-color: rgba(0, 0, 0, 0.4);border:1px solid var(--border)}
@@ -372,13 +372,13 @@
 
 /* Minimal Mode */
 .bd-minimal .theme-dark .container-2Thooq .button-2b6hmh {margin-top: 0}
-.bd-minimal .theme-dark .guilds-wrapper .guilds .guild .guild-inner a,
+.bd-minimal .theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4 a,
 .bd-minimal .theme-dark .iconSizeLarge-161qtT {height: 20px;width: 20px;}
-.bd-minimal .theme-dark .guilds-wrapper .guilds .guild .badge {bottom: -3px;right: -3px;padding: 1px 3px}
+.bd-minimal .theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .badge-1GsMF2 {bottom: -3px;right: -3px;padding: 1px 3px}
 
 /* Roundness */
 .theme-dark .mask-3OgeRz {-webkit-mask: none;mask: none;}
-.theme-dark .badge,.theme-dark .guilds-wrapper .guilds-add,.theme-dark .guilds-wrapper .guilds .guild-icon,.theme-dark .guilds-wrapper .guilds .guild .guild-inner,
+.theme-dark .badge-1GsMF2,.theme-dark .guildsWrapper-5TJh6A .guildsAdd-21_IdK,.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guildIcon-CT-ZDq,.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4,
 .theme-dark .image-33JSyf,.theme-dark .avatar-large, .theme-dark .avatar-profile, .theme-dark .small-5Os1Bb,.theme-dark .avatar-small,
 .theme-dark .avatarHint-1qgaV3,.theme-dark .title-3qD0b- .status, .theme-dark .titleCall-_b9o8P .status, .theme-dark .avatar-xlarge,
 .theme-dark .avatar-xsmall, .theme-dark .avatar-xxlarge,.theme-dark .statusProfile-3ynqtt  {border-radius: var(--round) !important}
@@ -509,7 +509,7 @@
 
 
 /* Main Background/Titlebar */
-.theme-dark .chat>.content, .theme-dark .chat form, .flex-horizontal>.flex-spacer, .theme-dark .uploadModal-2ifh8j .footer-3mqk7D, .theme-dark #friends, .theme-dark .activityFeed-28jde9, .theme-dark .footer-2yfCgX, .theme-dark .headerBar-UHpsPw, .theme-dark .channels-Ie2l6A, .theme-dark .container-PNkimc, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .layers-3iHuyZ, .theme-dark .guilds-wrapper .guilds, .theme-dark .chat .content, .theme-dark .members-1998pB, .theme-dark .title-3qD0b-, .theme-dark .scroller-2v3d_F, .theme-dark .header-2o-2hj, .theme-dark .container-2Thooq {background: transparent !important;background-color:transparent !important}
+.theme-dark .chat>.content, .theme-dark .chat form, .flex-horizontal>.flex-spacer, .theme-dark .uploadModal-2ifh8j .footer-3mqk7D, .theme-dark #friends, .theme-dark .activityFeed-28jde9, .theme-dark .footer-2yfCgX, .theme-dark .headerBar-UHpsPw, .theme-dark .channels-Ie2l6A, .theme-dark .container-PNkimc, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .layers-3iHuyZ, .theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH, .theme-dark .chat .content, .theme-dark .members-1998pB, .theme-dark .title-3qD0b-, .theme-dark .scroller-2v3d_F, .theme-dark .header-2o-2hj, .theme-dark .container-2Thooq {background: transparent !important;background-color:transparent !important}
 
 .theme-dark .iconBadge-2dji3k {border-color: #fff}
 .theme-dark .iconBadge-2dji3k:hover {border-color: #eee}
@@ -523,7 +523,7 @@
 .theme-dark .title-3qD0b- {box-shadow:0 0 0 transparent ;border-bottom: 1px solid var(--border)}
 .theme-dark .backdrop-1wrmKB {opacity: .3 !important}
 .theme-dark .container-2lgZY8,.theme-dark .ui-standard-sidebar-view,.titleBar-AC4pGV::after {background-color: var(--light)}
-.theme-dark .chat,.theme-dark .guilds-wrapper,.theme-dark .layer-3QrUeG{background-color: transparent}
+.theme-dark .chat,.theme-dark .guildsWrapper-5TJh6A,.theme-dark .layer-3QrUeG{background-color: transparent}
 
 input{background: #f6f6f6}
 body,h1,h2,h3,h4,h5,h6 {color: #fff);font-family:var(--font);text-rendering: optimizeLegibility !important; font-smoothing: antialiased !important}
