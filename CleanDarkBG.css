@@ -387,30 +387,30 @@
 .theme-dark .avatar-xsmall, .theme-dark .avatar-xxlarge,.theme-dark .statusProfile-3ynqtt  {border-radius: var(--round) !important}
 
 /* Msg Area */
-.theme-dark .chat .new-messages-bar {background-color: var(--mc)}
+.theme-dark .chat-3bRxxu .new-messages-bar {background-color: var(--mc)}
 .theme-dark .markup-2BOw-j pre,.theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline {background: rgba(0,0,0,.85);border:1px solid var(--border);color:#eee}
 .theme-dark .selectorSelected-1_M1WV {background-color: var(--mc)}
 .theme-dark .isMentioned-N-h9aa {width:99%;left:10px}
-.theme-dark .friends-table .messages .message-group-blocked.revealed,
-.theme-dark .messages-wrapper .messages .message-group-blocked.revealed,
-.theme-dark .friends-table .messages .message-group-blocked .message-group-blocked-btn, 
-.theme-dark .messages-wrapper .messages .message-group-blocked .message-group-blocked-btn,
-.theme-dark .friends-table .messages .message-group-blocked, .theme-dark .messages-wrapper .messages .message-group-blocked,
-.theme-dark .friends-table .messages .message-group-blocked .message-group-blocked-btn:hover, 
-.theme-dark .messages-wrapper .messages .message-group-blocked .message-group-blocked-btn:hover {background: rgba(0, 0, 0, 0.7);border-color: var(--border);display: var(--block)}
-.theme-dark .messages-wrapper .messages .containerCozy-jafyvG-blocked.revealed,.theme-dark .friends-table .messages .containerCozy-jafyvG-blocked .containerCozy-jafyvG-blocked-btn, 
-.theme-dark .messages-wrapper .messages .containerCozy-jafyvG-blocked .containerCozy-jafyvG-blocked-btn {background: #282828;border:1px solid var(--border);color: #ccc;display: var(--block)}
+.theme-dark .friends-table .messages-3amgkR .messageGroupBlocked-3wrQQX.revealed,
+.theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .messageGroupBlocked-3wrQQX.revealed,
+.theme-dark .friends-table .messages-3amgkR .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-, 
+.theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-,
+.theme-dark .friends-table .messages-3amgkR .messageGroupBlocked-3wrQQX, .theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .messageGroupBlocked-3wrQQX,
+.theme-dark .friends-table .messages-3amgkR .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-:hover, 
+.theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-:hover {background: rgba(0, 0, 0, 0.7);border-color: var(--border);display: var(--block)}
+.theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .containerCozy-jafyvG-blocked.revealed,.theme-dark .friends-table .messages-3amgkR .containerCozy-jafyvG-blocked .containerCozy-jafyvG-blocked-btn, 
+.theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .containerCozy-jafyvG-blocked .containerCozy-jafyvG-blocked-btn {background: #282828;border:1px solid var(--border);color: #ccc;display: var(--block)}
 .theme-dark .dividerEnabled-2TTlcf {border-bottom: none}
-.theme-dark .chat .messages {background: var(--chatbg);}
-.theme-dark .chat form {background-color: var(--mc);border-top: none;margin: 0 0px;padding-left: 20px;padding-right: 20px}
-.theme-dark .friends-table, .theme-dark .messages-wrapper {background-color: var(--chatbg)}
+.theme-dark .chat-3bRxxu .messages-3amgkR {background: var(--chatbg);}
+.theme-dark .chat-3bRxxu form {background-color: var(--mc);border-top: none;margin: 0 0px;padding-left: 20px;padding-right: 20px}
+.theme-dark .friends-table, .theme-dark .messagesWrapper-3lZDfY {background-color: var(--chatbg)}
 .theme-dark .innerNoAutocomplete-1WpcVO {border-radius: 2px}
 .theme-dark .containerCozy-jafyvG .edit-message .edit-container-outer {margin-left: 10px}
-.theme-dark .chat .divider:before {display:none}
+.theme-dark .chat-3bRxxu .divider-3gKybi:before {display:none}
 .theme-dark .channelName-3stJzi, .theme-dark .groupDM-3qU0Ks .channelName-3stJzi, 
 .theme-dark .groupDMManaged-1GyXtq .channelName-3stJzi, .theme-dark .input-autosize-input {color: #fff}
 .theme-dark .containerCozy-jafyvG .avatar-17mtNa .image-33JSyf.large-3ChYtB{background-size: 55px 55px;height: 55px;width: 55px;margin-left:-2px;box-shadow: 0 0 2px 0 #000}
-.theme-dark .chat .base-34jWEe h1 {color: #fff;text-align:center;font-size:20px}
+.theme-dark .chat-3bRxxu .base-34jWEe h1 {color: #fff;text-align:center;font-size:20px}
 .theme-dark .timestampCozy-2hLAPV{color: #ccc}
 .theme-dark .username-_4ZSMR {text-shadow:.3px .3px .2px rgba(0, 0, 0, .8)}
 .theme-dark .containerCozy-jafyvG .markup-2BOw-j-2BOw-j {color: var(--text);font-size:var(--fsize);font-family:var(--font);font-weight:600;text-rendering: optimizeLegibility;}
@@ -418,24 +418,24 @@
 .theme-dark .inner-zqa7da {background: rgba(0, 0, 0, 0.7);color:#ddd;border: 1px solid var(--border)}
 .theme-dark .wrapper-35wsBm {background: rgba(0, 0, 0, 0.7);border-color: var(--border)}
 .theme-dark .typing-2GQL18 {background:rgba(0, 0, 0, 0);color:#ddd;bottom:-4px}
-.theme-dark .chat .has-more button {background: rgba(0, 0, 0, 0.7);border: 1px solid var(--border)}
+.theme-dark .chat-3bRxxu .has-more button {background: rgba(0, 0, 0, 0.7);border: 1px solid var(--border)}
 
-.theme-dark .friends-table .messages .divider:before, .theme-dark .friends-table .messages .divider span, .theme-dark .messages-wrapper .messages .divider:before, 
-.theme-dark .messages-wrapper .messages .divider span,.theme-dark .chat .divider>span,.theme-dark .friends-table .messages .divider:not(.red) span, 
-.theme-dark .messages-wrapper .messages .divider:not(.red) span {background-color: transparent;color: var(--border);line-height:19px}
+.theme-dark .friends-table .messages-3amgkR .divider-3gKybi:before, .theme-dark .friends-table .messages-3amgkR .divider-3gKybi span, .theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .divider-3gKybi:before, 
+.theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .divider-3gKybi span,.theme-dark .chat-3bRxxu .divider-3gKybi>span,.theme-dark .friends-table .messages-3amgkR .divider-3gKybi:not(.red) span, 
+.theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .divider-3gKybi:not(.red) span {background-color: transparent;color: var(--border);line-height:19px}
 
-.theme-dark .friends-table .messages .divider:not(.red) div, .theme-dark .messages-wrapper .messages .divider:not(.red) div{background-color:var(--border)}
-.theme-dark .chat .divider {background-color: transparent}
-.theme-dark .chat .divider.divider-red>div {opacity: 1;background: #000}
+.theme-dark .friends-table .messages-3amgkR .divider-3gKybi:not(.red) div, .theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .divider-3gKybi:not(.red) div{background-color:var(--border)}
+.theme-dark .chat-3bRxxu .divider-3gKybi {background-color: transparent}
+.theme-dark .chat-3bRxxu .divider-3gKybi.dividerRed-MKoLlr>div {opacity: 1;background: #000}
 .theme-dark .channelTextArea-rNsIhG {margin: 10px 0 20px;}
-.theme-dark .chat .messages .mention {background: rgba(241, 243, 251, 0) !important;color:#2b2bff}
-.theme-dark .chat .mention:hover {color: #0000ff}
+.theme-dark .chat-3bRxxu .messages-3amgkR .mention {background: rgba(241, 243, 251, 0) !important;color:#2b2bff}
+.theme-dark .chat-3bRxxu .mention:hover {color: #0000ff}
 .theme-dark .attachment-33OFj0 {border-color: var(--border);background:rgba(0, 0, 0, 0.8)}
 .theme-dark .embedPill-1Zntps {background-color: var(--border)}
 .theme-dark .embedInner-1-fpTo {background: rgba(0, 0, 0, 0.8);border: 1px solid var(--border);border-radius:0;}
 .theme-dark .imageWrapper-2p5ogY{box-shadow: 0 0 2px 0 #000}
-.theme-dark .chat .jump-to-present-bar {background-color: rgba(0, 0, 0, 0.9);border:1px solid var(--border);border-radius:4px}
-.theme-dark .chat .jump-to-present-bar:hover {background-color: #000}
+.theme-dark .chat-3bRxxu .jump-to-present-bar {background-color: rgba(0, 0, 0, 0.9);border:1px solid var(--border);border-radius:4px}
+.theme-dark .chat-3bRxxu .jump-to-present-bar:hover {background-color: #000}
 
 
 /* FullSizePfps */
@@ -512,7 +512,7 @@
 
 
 /* Main Background/Titlebar */
-.theme-dark .chat>.content, .theme-dark .chat form, .flex-horizontal>.flex-spacer, .theme-dark .uploadModal-2ifh8j .footer-3mqk7D, .theme-dark #friends, .theme-dark .activityFeed-28jde9, .theme-dark .footer-2yfCgX, .theme-dark .headerBar-UHpsPw, .theme-dark .channels-Ie2l6A, .theme-dark .container-PNkimc, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .layers-3iHuyZ, .theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH, .theme-dark .chat .content, .theme-dark .members-1998pB, .theme-dark .title-3qD0b-, .theme-dark .scroller-2v3d_F, .theme-dark .header-2o-2hj, .theme-dark .container-2Thooq {background: transparent !important;background-color:transparent !important}
+.theme-dark .chat-3bRxxu>.content-yTz4x3, .theme-dark .chat-3bRxxu form, .flex-horizontal>.flex-spacer, .theme-dark .uploadModal-2ifh8j .footer-3mqk7D, .theme-dark #friends, .theme-dark .activityFeed-28jde9, .theme-dark .footer-2yfCgX, .theme-dark .headerBar-UHpsPw, .theme-dark .channels-Ie2l6A, .theme-dark .container-PNkimc, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .layers-3iHuyZ, .theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH, .theme-dark .chat-3bRxxu .content-yTz4x3, .theme-dark .members-1998pB, .theme-dark .title-3qD0b-, .theme-dark .scroller-2v3d_F, .theme-dark .header-2o-2hj, .theme-dark .container-2Thooq {background: transparent !important;background-color:transparent !important}
 
 .theme-dark .iconBadge-2dji3k {border-color: #fff}
 .theme-dark .iconBadge-2dji3k:hover {border-color: #eee}
@@ -526,7 +526,7 @@
 .theme-dark .title-3qD0b- {box-shadow:0 0 0 transparent ;border-bottom: 1px solid var(--border)}
 .theme-dark .backdrop-1wrmKB {opacity: .3 !important}
 .theme-dark .container-2lgZY8,.theme-dark .ui-standard-sidebar-view,.titleBar-AC4pGV::after {background-color: var(--light)}
-.theme-dark .chat,.theme-dark .guildsWrapper-5TJh6A,.theme-dark .layer-3QrUeG{background-color: transparent}
+.theme-dark .chat-3bRxxu,.theme-dark .guildsWrapper-5TJh6A,.theme-dark .layer-3QrUeG{background-color: transparent}
 
 input{background: #f6f6f6}
 body,h1,h2,h3,h4,h5,h6 {color: #fff);font-family:var(--font);text-rendering: optimizeLegibility !important; font-smoothing: antialiased !important}
