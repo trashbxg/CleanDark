@@ -387,6 +387,7 @@
 .theme-dark .avatar-xsmall, .theme-dark .avatar-xxlarge,.theme-dark .statusProfile-3ynqtt  {border-radius: var(--round) !important}
 
 /* Msg Area */
+.theme-dark .containerCozy-jafyvG {overflow: visible}
 .theme-dark .chat-3bRxxu .new-messages-bar {background-color: var(--mc)}
 .theme-dark .markup-2BOw-j pre,.theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline {background: rgba(0,0,0,.85);border:1px solid var(--border);color:#eee}
 .theme-dark .selectorSelected-1_M1WV {background-color: var(--mc)}
