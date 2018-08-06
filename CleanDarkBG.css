@@ -210,7 +210,7 @@
 
 .theme-dark .modal-3HD5ck {background-color: rgba(0, 0, 0, 0.9)}
 .theme-dark .input-cIJ7To:focus {border-color: var(--border)}
-.theme-dark .popout-3sVMXz {box-shadow: 0 0 2px 1px var(--border)}
+.theme-dark .popout-3sVMXz::not(.userPopout-3XzG_A) {box-shadow: 0 0 2px 1px var(--border);}
 /* Guild Settings */
 .theme-dark .menu-Sp6bN1 {background: rgba(0, 0, 0, 0.95)}
 .theme-dark .item-1GzJrl {color: #ddd}
