@@ -1,26 +1,3 @@
-
-:root {
-	--light: rgba(0, 0, 0, 0.5); /* Overall brightness. 1= black, 0 = transparent */
-	--mc: rgba(0, 105, 121, 0.3);	/* Main theme colour. */
-	--sc: rgba(0, 208, 255, 0.8);   /* Secondary/accent colour. */
-	--chatbg: rgba(24, 24, 24, .0);	/* Chat background */
-	--text: #ccc;	/* Chat text colour */
-	--round: 5%;	/* Icon Roundness. Pfps/Guilds 50% round, 5% Square. */
-	--profileradius: 0px; /* 0 is normal squared edges. Up to 45px for rounded profiles. */
-	--homeicon: url(https://rawgit.com/satoru8/Icons/master/homewhite.svg); /* Custom Home Icon. */
-	--font: sans-serif;	
-	--fsize: 13px;	/* Font Size */
-	--sb:rgba(53, 149, 255, .3);    /* Scrollbar colour. Change .3 to 0 to hide scrollbar. */
-	--border: rgba(53, 149, 255, .4);	/* Border colour. Change .3 to 0 to hide borders. */
-    --block: none;  /* Default - none */
-
-    /* Uri's Status Chooser */
-	--sPickerOnlineBGColour: #43b581;
-    --sPickerIdleBGColour: #faa61a;
-    --sPickerDNDBGColour: #f04747;
-    --sPickerInviBGColour: #2f3136;
-}
-
 /* Scrollbars */
 .scroller-wrap .scroller::-webkit-scrollbar,.theme-dark .activityFeed-28jde9 ::-webkit-scrollbar {width:8px !important}
 ::-webkit-scrollbar-thumb {border-color: transparent !important; background: var(--sb) !important;border-radius:0px !important} 
