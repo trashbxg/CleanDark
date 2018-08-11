@@ -1,4 +1,4 @@
-//META{"name":"Clean Dark Wallpaper Edition","description":"Simple & clean dark theme. Basic enhancements. User settings for variety. Transparent with wallpaper. Please use the support server listed below if you need any help.","author":"Satoru","version":"1.0","website":"http://discord.gg/fjvwb95"}*//{}
+//META{"name":"Clean Dark Wallpaper Edition","description":"Simple & clean dark theme. Basic enhancements. User settings for variety. Transparent with wallpaper. Please use the support server listed below if you need any help.","author":"Satoru","version":"0.5","website":"http://discord.gg/fjvwb95"}*//{}
 
 @import url(https://satoru8.github.io/CleanDark/CleanDarkBG.css);
 
@@ -6,6 +6,7 @@
 :root {
 	--light: rgba(0, 0, 0, 0.5); /* Overall brightness. 1= black, 0 = transparent */
 	--mc: rgba(0, 105, 121, 0.3);	/* Main theme colour. */
+	--sc: rgba(0, 208, 255, 0.8);   /* Secondary/accent colour. */
 	--chatbg: rgba(24, 24, 24, .0);	/* Chat background */
 	--text: #ccc;	/* Chat text colour */
 	--round: 5%;	/* Icon Roundness. Pfps/Guilds 50% round, 5% Square. */
