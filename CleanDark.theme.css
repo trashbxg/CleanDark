@@ -5,6 +5,7 @@
 :root {
 	--round: 5%;	/* Icon Roundness. Pfps/Guilds */
 	--mc: #121212;	/* Main theme colour. */
+	--sc: rgba(0, 208, 255, 0.8);   /* Secondary/accent colour. */
 	--chatbg: #181818;	/* Chat background */
 	--text: #ccc;	/* Chat text colour */
 	--profileradius: 0px; /* 0 is normal squared edges. Up to 45px for rounded profiles. */
