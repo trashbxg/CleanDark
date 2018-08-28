@@ -39,7 +39,7 @@
 .theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action.friends-action-remove {background-color: #000;border: 1px solid var(--border)}
 .theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .friendsOnline-_wi_fM {color: #eee}
 .theme-dark .guildsWrapper-5TJh6A .guildSeparator-1X4GQ1:after {background-color:transparent}
-.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr:before {background: var(--);border-radius: 8px;height: 30px;margin-top: -14px;}
+.theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr:before {background: var(--sc);border-radius: 8px;height: 30px;margin-top: -14px;}
 .theme-dark .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.selected-ML3OIq:before {background: #eee}
 .theme-dark .guildsWrapper-5TJh6A .guildsAdd-21_IdK {background: rgba(32, 34, 37, 0.6);border: 1px solid #eee;color: #eee}
 .theme-dark .guildsWrapper-5TJh6A .guildsAdd-21_IdK:hover {background: rgba(0, 0, 0, 0.8);border: 1px solid #eee;color: #eee}
