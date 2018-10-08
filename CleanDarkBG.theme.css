@@ -3,6 +3,8 @@
 @import url(https://satoru8.github.io/CleanDark/CleanDarkBG.css);
 @import url(https://rawgit.com/cmpdc/bdtf/master/themes/FullScreenStatusPicker/css/min.css);
 @import url(https://satoru8.github.io/FullSizePfp/FullSizePfp.css);
+@import url(https://satoru8.github.io/Addons/BorderStatus.css);
+@import url(https://satoru8.github.io/Addons/Library.css);
 
 :root {
 	--light: rgba(0, 0, 0, 0.5); /* Overall brightness. 1= black, 0 = transparent */
