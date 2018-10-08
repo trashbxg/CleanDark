@@ -8,7 +8,8 @@
 
 
 /* Member Profiles */
-.theme-dark .header-QKLPzZ .image-33JSyf {width:100px; height:100px; background-size: 100px 100px}
+#app-mount .userPopout-3XzG_A .avatarHint-1qgaV3 {border-radius: 0 !important}
+.theme-dark .header-QKLPzZ .image-33JSyf {position:relative;width:110px; height:110px; background-size: 110px 110px;left:-10px;top:-10px}
 
 .theme-dark .headerNormal-T_seeN,.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {background-color: rgba(0, 0, 0, 0.9)}
 .theme-dark .footer-1fjuF6 {border-color: var(--border)}

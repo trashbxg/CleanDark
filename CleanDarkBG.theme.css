@@ -22,7 +22,13 @@
     --block: none;  /* Default - none */
     --bg1: rgba(0, 0, 0, 0.9);	/* Library Background transparency/colour */
     --bc1:var(--sc);	/* Library Box-shadow  */
-    
+
+    --size1: 60px; /* Avatar Size */
+	--round1: 5%;  /* Avatar roundness 50% Circle. */
+	--margin1: 0px; /* Margin left/right */
+	--margin2: 3px; /* Margin top/bottom */
+	--shadow1: 0 0 1px #000; /* Shadow for transparent themes. */
+	
     /* Uri's Status Chooser */
 	--sPickerOnlineBGColour: #43b581;
     --sPickerIdleBGColour: #faa61a;
