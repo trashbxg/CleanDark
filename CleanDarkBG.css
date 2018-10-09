@@ -6,12 +6,6 @@
 /* Plugins */
 .theme-dark #memberCount {border:none;color: hsl(0, 0%, 100%);background: rgba(0, 0, 0, 0);position: absolute;line-height:4px;font-size: 13px;height:6px;margin:0px}
 
-/*Status sizes */
-#app-mount .members-1998pB .content-OzHfo4 .status-2s6iDp, #app-mount .members-1998pB .member-3W1lQa.popout-open .status-2s6iDp { height:35px;width:35px;left:-2px;top:-2px;}
-#app-mount .privateChannels-1nO12o .status {bottom: -2px;right: -2px!important;height: 35px;width: 35px}
-#app-mount .header-QKLPzZ .statusProfile-3ynqtt.status-oxiHuE {width: 110px;height: 110px;right: -12px;bottom: -12px;padding: 0}
-#app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status, #app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp {
-    height: 35px !important;width: 35px!important}
 /* Member Profiles */
 #app-mount .userPopout-3XzG_A .avatarHint-1qgaV3 {border-radius: 0 !important}
 .theme-dark .header-QKLPzZ .image-33JSyf {position:relative;width:110px; height:110px; background-size: 110px 110px;left:-10px;top:-10px}
@@ -306,7 +300,13 @@
 .theme-dark .avatar-profile, .theme-dark .small-5Os1Bb,.theme-dark .avatar-small,.theme-dark .avatarHint-1qgaV3,.theme-dark .title-3qD0b- .status, 
 .theme-dark .titleCall-_b9o8P .status, .theme-dark .avatar-xlarge,.theme-dark .avatar-xsmall, .theme-dark .avatar-xxlarge,
 .theme-dark .statusProfile-3ynqtt  {border-radius: var(--round) !important}
-
+/*Status sizes */
+#app-mount .members-1998pB .content-OzHfo4 .status-2s6iDp,
+ #app-mount .members-1998pB .member-3W1lQa.popout-open .status-2s6iDp { height:35px!important;width:35px!important;left:-2px!important;top:-2px!important;}
+#app-mount .privateChannels-1nO12o .status {bottom: -2px!important;right: -2px!important;height: 35px!important;width: 35px!important}
+#app-mount .header-QKLPzZ .statusProfile-3ynqtt.status-oxiHuE {width: 110px;height: 110px;right: -12px;bottom: -12px;padding: 0!important}
+#app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status, #app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp {
+    height: 35px !important;width: 35px!important}
 /* Msg Area */
 .containerCozy-jafyvG .avatar-17mtNa .image-33JSyf.large-3ChYtB {
 background-size: var(--size1) var(--size1);
