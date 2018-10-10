@@ -69,7 +69,7 @@
 .theme-dark .button-1w5pas path:nth-child(n + 2){stroke: #fff}
 .theme-dark .name-3M0b8v{ font-size: 14px}
 .theme-dark .topic-2QX7LI,.theme-dark .container-2Thooq,.accountDetails-3k9g4n .discriminator {color: #fff;opacity:1;font-weight:bold}
-.theme-dark .header-2o-2hj {color:#ddd;font-weight:bold;box-shadow:0 0 0 transparent;border-bottom:1px solid var(--border);top:1px;}
+.theme-dark .header-2o-2hj {height:47px;color:#ddd;font-weight:bold;box-shadow:0 0 0 transparent;border-bottom:1px solid var(--border);top:1px;}
 .theme-dark .nameDefault-2s3kbY, .theme-dark .nameHovered-21k1eo, .theme-dark .nameSpeaking-3UhoEZ {color: #fff !important}
 .theme-dark .nameHovered-21k1eo{background-color: var(--mc)}
 .theme-dark .button-2KyEfG {opacity:1;background-color: rgb(0, 0, 0);margin: 1px;border:1px solid var(--border)}
@@ -141,6 +141,7 @@
 .theme-dark .privateChannels-1nO12o header {color: #ccc;font-size: 16px;font-weight: bold;opacity: 1;text-transform: capitalize;text-align:center}
 .theme-dark .privateChannels-1nO12o .channel-2QD9_O .name-2WpE7M {color: #ccc;font-size: 14px;font-weight: bold;opacity: 1;}
 .theme-dark .headerBar-UHpsPw,.theme-dark .privateChannels-1nO12o .searchBar-6Kv8R2 {box-shadow:0 0 0 transparent;border-bottom:1px solid var(--border)}
+.theme-dark .privateChannels-1nO12o .searchBar-6Kv8R2 {height:47px}
 .searchBar-6Kv8R2 .search-bar {background-color: var(--mc)}
 .theme-dark #friends .tab-bar {font-weight: bold}
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {background-color: #ccc;color: #000}
@@ -322,7 +323,9 @@ filter: drop-shadow(var(--shadow1))}
 .containerCozy-jafyvG {margin: 0;padding: 15px 0}
 .container-1YxwTf .divider-32i8lo {position:absolute;bottom:15px;width:100%}
 
-.theme-dark .hasMore-3e72_v button {background: rgba(0, 85, 255, 0.3);border: 1px solid var(--border)}
+.theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:after, 
+.theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:before {border:none}
+.theme-dark .hasMore-3e72_v button,.theme-dark .jumpToPresentBar-9P20AM {background: rgba(0, 85, 255, 0.3);border: 1px solid var(--border)}
 .newMessagesBar-mujexs {background-color:rgba(0, 93, 255, .4)}
 .theme-dark .containerCozy-jafyvG {overflow: visible}
 .theme-dark .chat-3bRxxu .new-messages-bar {background-color: var(--mc)}
