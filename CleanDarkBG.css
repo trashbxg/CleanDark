@@ -308,6 +308,7 @@
 #app-mount .header-QKLPzZ .statusProfile-3ynqtt.status-oxiHuE {width: 110px;height: 110px;right: -12px;bottom: -12px;padding: 0!important}
 #app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status, #app-mount .status-oxiHuE.small-5Os1Bb.typing-1KJk_j.status-2s6iDp {
     height: 35px !important;width: 35px!important}
+
 /* Msg Area */
 .containerCozy-jafyvG .avatar-17mtNa .image-33JSyf.large-3ChYtB {
 background-size: var(--size1) var(--size1);
@@ -323,6 +324,8 @@ filter: drop-shadow(var(--shadow1))}
 .containerCozy-jafyvG {margin: 0;padding: 15px 0}
 .container-1YxwTf .divider-32i8lo {position:absolute;bottom:15px;width:100%}
 
+.theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:after,
+.theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:before {border-color: transparent}
 .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:after, 
 .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:before {border:none}
 .theme-dark .hasMore-3e72_v button,.theme-dark .jumpToPresentBar-9P20AM {background: rgba(0, 85, 255, 0.3);border: 1px solid var(--border)}
