@@ -357,7 +357,9 @@ filter: drop-shadow(var(--shadow1))}
 .theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .containerCozy-jafyvG-blocked .containerCozy-jafyvG-blocked-btn {background: #282828;border:1px solid var(--border);color: #ccc;display: var(--block)}
 .theme-dark .dividerEnabled-2TTlcf {border-bottom: none}
 .theme-dark .chat-3bRxxu .messages-3amgkR {background: var(--chatbg);}
-.theme-dark .chat-3bRxxu form {background-color: var(--mc);border-top: none;margin: 0 0px;padding-left: 20px;padding-right: 20px}
+.theme-dark .channelTextArea-rNsIhG {border:none}
+.channelTextArea-rNsIhG {padding-top: 0}
+.theme-dark .chat-3bRxxu form {border-top: none;box-shadow: inset 16px 0px 16px -16px rgba(0, 0, 0, .8);margin: 0 0;padding:0 10px 0 10px}
 .theme-dark .friends-table, .theme-dark .messagesWrapper-3lZDfY {background-color: var(--chatbg)}
 .theme-dark .innerNoAutocomplete-1WpcVO {border-radius: 2px}
 .theme-dark .containerCozy-jafyvG .edit-message .edit-container-outer {margin-left: 10px}
