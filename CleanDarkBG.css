@@ -332,6 +332,9 @@ filter: drop-shadow(var(--shadow1))}
 .containerCozy-jafyvG {margin: 0;padding: 15px 0}
 .container-1YxwTf .divider-32i8lo {position:absolute;bottom:15px;width:100%}
 
+.theme-dark .attachPopout-1n-ZKM { background-color: rgba(0, 0, 0, 0.8);top:50%;position:relative;padding: 0}
+.theme-dark .attachPopoutRow-KrE-f6:hover {background:rgba(0, 255, 0, 0.2)}
+.theme-dark .invite-18yqGF {background: rgb(25, 25, 25); border-color: var(--border)}
 .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:after,
 .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:before {border-color: transparent}
 .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:after, 

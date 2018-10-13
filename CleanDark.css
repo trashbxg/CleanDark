@@ -326,6 +326,11 @@
 .theme-dark .avatar-xsmall, .theme-dark .avatar-xxlarge,.theme-dark .statusProfile-3ynqtt  {border-radius: var(--round) !important}
 
 /* Msg Area */
+.theme-dark .attachPopout-1n-ZKM { background-color: rgba(0, 0, 0, 0.8);top:50%;position:relative;padding: 0}
+.theme-dark .attachPopoutRow-KrE-f6:hover {background:rgba(0, 255, 0, 0.2)}
+.theme-dark .invite-18yqGF {background: rgb(25, 25, 25); border-color: var(--border)}
+.theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:after,
+.theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:before {border-color: transparent}
 .theme-dark .containerCozy-jafyvG {padding-top: 25px;overflow: visible}
 .theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .messageGroupBlocked-3wrQQX.revealed,.theme-dark .friends-table .messages-3amgkR .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh-, 
 .theme-dark .messagesWrapper-3lZDfY .messages-3amgkR .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh- {background: #282828;border:1px solid var(--border);color: #ccc}
